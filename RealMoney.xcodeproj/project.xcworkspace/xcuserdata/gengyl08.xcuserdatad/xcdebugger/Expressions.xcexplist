@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RealMoneyViewController ocrImage:]:RealMoneyViewController.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[RealMoneyViewController getSerialNumber:]:RealMoneyViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m">
+            </PersistentString>
+            <PersistentString
+               value = "n">
+            </PersistentString>
+            <PersistentString
+               value = "string.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
